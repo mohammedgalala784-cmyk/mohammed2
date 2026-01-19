@@ -1,16 +1,37 @@
-# chatgpt5
+# chatgpt5 🤖
 
-A new Flutter project.
+تطبيق Flutter تجريبي يوضح استخدام الواجهات والتعامل مع التصميم.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 صور من التطبيق
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img src="1.png" width="250">
+  <img src="2.png" width="250">
+  <img src="3.png" width="250">
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+  <img src="4.png" width="250">
+  <img src="5.png" width="250">
+  <img src="6.png" width="250">
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="7.png" width="250">
+  <img src="8.png" width="250">
+  <img src="9.png" width="250">
+</p>
+
+---
+
+## 🚀 Getting Started
+
+هذا المشروع مبني باستخدام Flutter.
+
+لبدء التشغيل محليًا:
+
+```bash
+flutter pub get
+flutter run
